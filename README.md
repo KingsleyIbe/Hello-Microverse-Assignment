@@ -6,7 +6,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-Hello Microverse is aimed at helping Microverse students git familiar with git and github basics. 
+Hello Microverse is aimed at helping Microverse students get familiar with git and github basics. 
 Student will learn how to create branches, commits descriptively, etc
 
 ## Built With
